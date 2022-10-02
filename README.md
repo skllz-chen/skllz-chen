@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skllz-chen
-- 👀 I’m interested in C++/Python/AI.
-- 🌱 I’m currently learning C++/Python/AI.
+- 👀 I’m interested in C++/Python/Rust.
+- 🌱 I’m currently learning C++/Python/Rust.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 1577368843@qq.com.
 
